@@ -1,0 +1,11 @@
+
+.card {
+    border: 2px solid wheat;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 10px;
+}
