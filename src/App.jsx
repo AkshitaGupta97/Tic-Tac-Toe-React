@@ -7,7 +7,8 @@ function App() {
 
   return (
     <>
-      <Grid numberOfCards='9' />
+    
+      <Grid numberOfCards={9} />
     </>
   )
 }
